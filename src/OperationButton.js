@@ -1,4 +1,5 @@
 import { ACTIONS } from "./App";
+
 export default function OperationButton({ dispatch, Operation }) {
   return (
     <button
